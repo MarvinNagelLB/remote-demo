@@ -1,2 +1,2 @@
-Projektname: RemoteDemo
-Status: offen
+Projektname: Remote Demo 
+Status: Bereit zur Freigabe 
